@@ -1,6 +1,7 @@
 Este es un archivo de texto con al finalidad
 
-de captar varios ejemplos del curso necesarios 
+de captar algunos ejemplos del curso 
 
-git y github, la disciplina y constancia te llevan a hacer grandes cosas
-por un bien mayor
+git y github.
+
+Mañana nos enfocaremos en todo lo que se puede hacer con dedicacion
