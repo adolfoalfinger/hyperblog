@@ -9,10 +9,7 @@ Experimento 1
 Experimento 2
 
 Main 1
-<<<<<<< HEAD
 
 Main 2
-=======
->>>>>>> a82b683cfe4c112d7b844d7bb8c9fe37635524a1
 
 Mañana nos enfocaremos en todo lo que se puede hacer con dedicacion
