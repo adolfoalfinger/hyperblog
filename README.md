@@ -9,5 +9,6 @@ En este curso vemos de todo
 - El verdadero amor de las buenas practicas
 - Trucos de un profesor muy loco
 - Las multipersonalidades de Freddy Vega
+- Creado por el increible Platzi Team
 
 Y como un amable recordartorio. **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas a aca NO TE LO TOMES EN SERIO y mejor ve al curso
